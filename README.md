@@ -1,5 +1,7 @@
 # React + Vite
 pages photoes
+![image](https://github.com/user-attachments/assets/9c43adef-c6b0-4047-b030-b67be545a765)
+
 ![image](https://github.com/user-attachments/assets/a0e515b4-f7d3-4508-ad1e-bb59492b52da)
 
 
