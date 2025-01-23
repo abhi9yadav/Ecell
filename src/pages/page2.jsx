@@ -1,12 +1,13 @@
 import React from 'react';
 import './Page2.css';
+import profileImage from '../assets/profile.jpg';
 
 
 function Page2() {
   return (
     <div className="page2">
       <div className="squid-game-container">
-       <div className='image'/>
+       <img src={profileImage} alt="profile photo" className='profile-image' />
         <h1 className="player-name">Elia </h1>
         <p className="player-id">Player ID: 1232</p>
         <button
